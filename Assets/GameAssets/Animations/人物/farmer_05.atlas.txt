@@ -1,0 +1,69 @@
+
+farmer_05.png
+size: 1852,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 1164, 233
+  size: 56, 241
+  orig: 56, 241
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 1021, 31
+  size: 193, 454
+  orig: 193, 467
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 20
+  size: 439, 549
+  orig: 439, 549
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1727, 31
+  size: 122, 428
+  orig: 122, 428
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 553, 226
+  size: 233, 609
+  orig: 233, 626
+  offset: 0, 17
+  index: -1
+6
+  rotate: true
+  xy: 1563, 320
+  size: 139, 162
+  orig: 139, 162
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 553, 2
+  size: 222, 466
+  orig: 223, 467
+  offset: 1, 1
+  index: -1
+8
+  rotate: true
+  xy: 1164, 291
+  size: 168, 397
+  orig: 169, 397
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 1477, 18
+  size: 271, 248
+  orig: 271, 248
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+mission_arrow.png
+size: 508,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/arrowforward
+  rotate: true
+  xy: 311, 2
+  size: 413, 195
+  orig: 413, 195
+  offset: 0, 0
+  index: -1
+images/arrowup
+  rotate: false
+  xy: 2, 87
+  size: 307, 328
+  orig: 307, 328
+  offset: 0, 0
+  index: -1

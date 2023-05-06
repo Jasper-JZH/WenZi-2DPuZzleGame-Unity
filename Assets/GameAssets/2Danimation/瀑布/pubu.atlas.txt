@@ -1,0 +1,76 @@
+
+pubu.png
+size: 1512,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pubu_00
+  rotate: false
+  xy: 2, 2
+  size: 300, 512
+  orig: 300, 512
+  offset: 0, 0
+  index: -1
+pubu_01
+  rotate: false
+  xy: 304, 516
+  size: 300, 512
+  orig: 300, 512
+  offset: 0, 0
+  index: -1
+pubu_02
+  rotate: false
+  xy: 304, 2
+  size: 300, 512
+  orig: 300, 512
+  offset: 0, 0
+  index: -1
+pubu_03
+  rotate: false
+  xy: 606, 516
+  size: 300, 512
+  orig: 300, 512
+  offset: 0, 0
+  index: -1
+pubu_04
+  rotate: false
+  xy: 606, 2
+  size: 300, 512
+  orig: 300, 512
+  offset: 0, 0
+  index: -1
+pubu_05
+  rotate: false
+  xy: 908, 516
+  size: 300, 512
+  orig: 300, 512
+  offset: 0, 0
+  index: -1
+pubu_06
+  rotate: false
+  xy: 908, 2
+  size: 300, 512
+  orig: 300, 512
+  offset: 0, 0
+  index: -1
+pubu_07
+  rotate: false
+  xy: 1210, 516
+  size: 300, 512
+  orig: 300, 512
+  offset: 0, 0
+  index: -1
+pubu_08
+  rotate: false
+  xy: 1210, 2
+  size: 300, 512
+  orig: 300, 512
+  offset: 0, 0
+  index: -1
+pubu_09
+  rotate: false
+  xy: 2, 516
+  size: 300, 512
+  orig: 300, 512
+  offset: 0, 0
+  index: -1

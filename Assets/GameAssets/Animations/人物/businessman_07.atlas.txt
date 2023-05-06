@@ -1,0 +1,118 @@
+
+businessman_07.png
+size: 1064,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 263, 109
+  size: 203, 364
+  orig: 203, 364
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 901, 82
+  size: 158, 85
+  orig: 158, 85
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 2, 2
+  size: 109, 169
+  orig: 109, 169
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 492, 50
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 629, 40
+  size: 157, 272
+  orig: 157, 272
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 692, 325
+  size: 225, 250
+  orig: 225, 250
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 788, 41
+  size: 111, 121
+  orig: 117, 121
+  offset: 6, 0
+  index: -1
+16
+  rotate: false
+  xy: 788, 164
+  size: 99, 159
+  orig: 99, 159
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 889, 169
+  size: 170, 78
+  orig: 170, 78
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 901, 7
+  size: 73, 152
+  orig: 73, 152
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 173, 14
+  size: 93, 317
+  orig: 93, 317
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 263, 314
+  size: 146, 427
+  orig: 146, 427
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 944, 249
+  size: 97, 301
+  orig: 97, 301
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 462
+  size: 88, 685
+  orig: 88, 685
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 889, 268
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 113
+  size: 259, 347
+  orig: 259, 347
+  offset: 0, 0
+  index: -1

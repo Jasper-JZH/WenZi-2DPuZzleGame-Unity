@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: 098f3d2c40cb0ea4083823e3d00a4561
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: lock3
+  - first:
+      213: 21300002
+    second: zhizheng
+  - first:
+      213: 21300004
+    second: huan
+  - first:
+      213: 21300006
+    second: zhongxin
+  - first:
+      213: 21300008
+    second: lockDirt
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 56
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lock3
+      rect:
+        serializedVersion: 2
+        x: 207.06767
+        y: 0.06802559
+        width: 104.86467
+        height: 104.86431
+      alignment: 9
+      pivot: {x: 0.504768, y: 0.50476635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.500004, y: -52.50018}
+        - {x: -52.500004, y: -29.50018}
+        - {x: -52.500004, y: 38.49982}
+        - {x: -45.500004, y: 52.49982}
+        - {x: 31.499996, y: 52.49982}
+        - {x: 52.499996, y: 45.49982}
+        - {x: 52.499996, y: -50.50018}
+        - {x: 37.499996, y: -52.50018}
+      physicsShape:
+      - - {x: -2.5000038, y: 21.499823}
+        - {x: -9.500004, y: 21.499823}
+        - {x: -13.500004, y: 20.49982}
+        - {x: -23.500004, y: 12.499821}
+        - {x: -24.500004, y: 6.4998207}
+        - {x: -24.500004, y: -8.500179}
+        - {x: -13.500004, y: -20.500181}
+        - {x: -10.500004, y: -23.50018}
+        - {x: 6.499996, y: -23.50018}
+        - {x: 17.499996, y: -21.50018}
+        - {x: 22.499996, y: -12.50018}
+        - {x: 22.499996, y: 13.499822}
+        - {x: 17.499996, y: 17.49982}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ef5504eed248b7aa02deba2505564a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhizheng
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 25
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -47}
+        - {x: -12.5, y: 47}
+        - {x: 12.5, y: 47}
+        - {x: 12.5, y: -47}
+      physicsShape:
+      - - {x: -5.5, y: 40}
+        - {x: -6.5000005, y: 36}
+        - {x: -6.5000005, y: -22}
+        - {x: -3.5, y: -35}
+        - {x: -2.5, y: -37}
+        - {x: -0.5, y: -37}
+        - {x: 4.5, y: -33}
+        - {x: 6.5000005, y: -21.000002}
+        - {x: 6.5000005, y: 40}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474b12844c9e4228818d6dbfd54ee584
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huan
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 205
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 102.5}
+        - {x: 68.5, y: 86.50001}
+        - {x: 102.5, y: 40.5}
+        - {x: 101.50001, y: -43.5}
+        - {x: 68.5, y: -87.5}
+        - {x: 33.5, y: -101.50001}
+        - {x: -25.5, y: -102.5}
+        - {x: -49.500004, y: -97.5}
+        - {x: -86.50001, y: -68.5}
+        - {x: -102.5, y: -37.5}
+        - {x: -102.5, y: 30.5}
+        - {x: -83.5, y: 65.5}
+        - {x: -38.5, y: 102.5}
+      physicsShape:
+      - - {x: 61.5, y: -75.5}
+        - {x: 80.5, y: -54.500004}
+        - {x: 87.5, y: -39.5}
+        - {x: 92.5, y: -25.5}
+        - {x: 95.5, y: -18.5}
+        - {x: 95.5, y: 14.5}
+        - {x: 94.5, y: 18.5}
+        - {x: 89.5, y: 34.5}
+        - {x: 77.5, y: 57.5}
+        - {x: 61.5, y: 74.5}
+        - {x: 53.5, y: 80.5}
+        - {x: 33.5, y: 91.50001}
+        - {x: 14.5, y: 95.5}
+        - {x: -11.5, y: 95.5}
+        - {x: -23.500002, y: 93.5}
+        - {x: -40.5, y: 88.5}
+        - {x: -51.5, y: 81.50001}
+        - {x: -61.5, y: 73.5}
+        - {x: -73.5, y: 62.5}
+        - {x: -83.5, y: 49.500004}
+        - {x: -93.5, y: 27.5}
+        - {x: -95.5, y: 13.5}
+        - {x: -95.5, y: -12.5}
+        - {x: -92.5, y: -27.5}
+        - {x: -88.5, y: -37.5}
+        - {x: -80.5, y: -53.5}
+        - {x: -74.5, y: -60.5}
+        - {x: -60.5, y: -74.5}
+        - {x: -48.5, y: -84.5}
+        - {x: -33.5, y: -89.5}
+        - {x: -29.5, y: -88.5}
+        - {x: -28.500002, y: -85.5}
+        - {x: -34.5, y: -78.5}
+        - {x: -54.500004, y: -66.5}
+        - {x: -69.5, y: -50.5}
+        - {x: -80.5, y: -29.5}
+        - {x: -85.5, y: -6.5000005}
+        - {x: -85.5, y: 6.5000005}
+        - {x: -81.50001, y: 26.5}
+        - {x: -67.5, y: 52.5}
+        - {x: -48.5, y: 71.5}
+        - {x: -14.5, y: 84.5}
+        - {x: 3.5, y: 85.5}
+        - {x: 13.5, y: 83.5}
+        - {x: 34.5, y: 78.5}
+        - {x: 54.500004, y: 66.5}
+        - {x: 66.5, y: 54.500004}
+        - {x: 74.5, y: 43.5}
+        - {x: 84.5, y: 21.5}
+        - {x: 85.5, y: -4.5}
+        - {x: 80.5, y: -33.5}
+        - {x: 72.5, y: -47.5}
+        - {x: 70.5, y: -51.5}
+        - {x: 41.5, y: -75.5}
+        - {x: 18.5, y: -83.5}
+        - {x: 5.5, y: -85.5}
+        - {x: -26.5, y: -83.5}
+        - {x: -28.500002, y: -85.5}
+        - {x: -29.5, y: -89.5}
+        - {x: -27.5, y: -91.50001}
+        - {x: -21.5, y: -93.5}
+        - {x: -14.5, y: -95.5}
+        - {x: 11.5, y: -95.5}
+        - {x: 17.5, y: -94.5}
+        - {x: 29.5, y: -90.5}
+        - {x: 48.5, y: -84.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeb8950ebdf42d9a38dd8f876737ce1
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zhongxin
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 78
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -17}
+        - {x: -17, y: -17}
+        - {x: -17, y: 16}
+        - {x: -15, y: 17}
+        - {x: 15, y: 17}
+        - {x: 17, y: 14}
+        - {x: 17, y: -14}
+      physicsShape:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -8, y: -12}
+        - {x: 6, y: -12}
+        - {x: 12, y: -10}
+        - {x: 12, y: 10}
+        - {x: 6, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38ed4635eee46528dcba1b328b73db5
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lockDirt
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 77
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -38}
+        - {x: -38.5, y: -37}
+        - {x: -38.5, y: 36}
+        - {x: -34.5, y: 38}
+        - {x: 32.5, y: 38}
+        - {x: 38.5, y: 26}
+        - {x: 38.5, y: -32}
+        - {x: 34.5, y: -38}
+      physicsShape:
+      - - {x: -9.5, y: -25}
+        - {x: -6.5000005, y: -28}
+        - {x: -1.5, y: -28}
+        - {x: 0.5, y: -26.000002}
+        - {x: -0.5, y: -23}
+        - {x: -7.5, y: -22}
+      - - {x: 3.5, y: -24}
+        - {x: 3.5, y: -25}
+        - {x: 6.5000005, y: -28}
+        - {x: 9.5, y: -27}
+        - {x: 9.5, y: -24}
+        - {x: 7.5, y: -22}
+        - {x: 5.5, y: -22}
+      - - {x: 22.5, y: -8}
+        - {x: 14.5, y: -15}
+        - {x: 14.5, y: -22}
+        - {x: 17.5, y: -22}
+        - {x: 24.5, y: -17}
+        - {x: 25.5, y: -12}
+        - {x: 25.5, y: -10}
+        - {x: 24.5, y: -8}
+      - - {x: -28.500002, y: -2}
+        - {x: -25.5, y: -7}
+        - {x: -22.5, y: -6}
+        - {x: -22.5, y: 2}
+        - {x: -23.500002, y: 4}
+        - {x: -25.5, y: 4}
+        - {x: -28.500002, y: 3}
+      - - {x: -20.5, y: 22}
+        - {x: -24.5, y: 15}
+        - {x: -24.5, y: 8}
+        - {x: -18.5, y: 8}
+        - {x: -12.5, y: 19}
+        - {x: -12.5, y: 21.000002}
+        - {x: -13.5, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db83239c71c343ab910d0b269a399d92
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

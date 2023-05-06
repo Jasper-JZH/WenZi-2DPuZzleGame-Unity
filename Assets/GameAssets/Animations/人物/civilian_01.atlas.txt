@@ -1,0 +1,111 @@
+
+civilian_01.png
+size: 352,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 213, 16
+  size: 62, 103
+  orig: 62, 103
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: true
+  xy: 121, 2
+  size: 11, 54
+  orig: 11, 54
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 323, 247
+  size: 9, 91
+  orig: 9, 91
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 149, 221
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: true
+  xy: 334, 319
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+kuzi2
+  rotate: false
+  xy: 121, 15
+  size: 90, 203
+  orig: 90, 203
+  offset: 0, 0
+  index: -1
+luzi1
+  rotate: false
+  xy: 149, 293
+  size: 135, 233
+  orig: 135, 233
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 220
+  size: 145, 306
+  orig: 145, 306
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 213, 121
+  size: 77, 126
+  orig: 77, 126
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 149, 249
+  size: 42, 138
+  orig: 42, 138
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 296, 47
+  size: 32, 129
+  orig: 32, 129
+  offset: 0, 0
+  index: -1
+yidai1
+  rotate: false
+  xy: 277, 15
+  size: 17, 104
+  orig: 17, 104
+  offset: 0, 0
+  index: -1
+yidai2
+  rotate: false
+  xy: 292, 178
+  size: 29, 160
+  orig: 29, 160
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 286, 340
+  size: 59, 186
+  orig: 59, 186
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 2, 5
+  size: 117, 213
+  orig: 117, 213
+  offset: 0, 0
+  index: -1

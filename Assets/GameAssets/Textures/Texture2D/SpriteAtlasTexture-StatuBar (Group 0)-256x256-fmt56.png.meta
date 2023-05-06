@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 3bc6232ee651a3d4eac33e396794f507
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: bar
+  - first:
+      213: 21300002
+    second: barShadow
+  - first:
+      213: 21300004
+    second: head
+  - first:
+      213: 21300006
+    second: bg
+  - first:
+      213: 21300008
+    second: barSkill
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 56
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bar
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 98
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 1, y: 0, z: 1, w: 0}
+      outline:
+      - - {x: -49, y: -4}
+        - {x: -49, y: 4}
+        - {x: 49, y: 4}
+        - {x: 49, y: -4}
+      physicsShape:
+      - - {x: -49, y: 4}
+        - {x: -49, y: -4}
+        - {x: 49, y: -4}
+        - {x: 49, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f238d8c56c41a0b9761444deeee950
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barShadow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 98
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 1, y: 0, z: 1, w: 0}
+      outline:
+      - - {x: -49, y: -4}
+        - {x: -49, y: 4}
+        - {x: 49, y: 4}
+        - {x: 49, y: -4}
+      physicsShape:
+      - - {x: -49, y: 4}
+        - {x: -49, y: -4}
+        - {x: 49, y: -4}
+        - {x: 49, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555c85294b34431f8d9877659b8f6dfa
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 3
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: -11}
+        - {x: -1.5, y: 11}
+        - {x: 1.5, y: 11}
+        - {x: 1.5, y: -11}
+      physicsShape:
+      - - {x: -1.5, y: 8}
+        - {x: -1.5, y: -10}
+        - {x: -0.5, y: -11}
+        - {x: 1.5, y: -10}
+        - {x: 1.5, y: 8}
+        - {x: 0.5, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276d97340eab4af8887395ee96970d98
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 150
+        height: 12
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 4, y: 0, z: 4, w: 0}
+      outline:
+      - - {x: -75, y: -6}
+        - {x: -75, y: 6}
+        - {x: 75, y: 6}
+        - {x: 75, y: -6}
+      physicsShape:
+      - - {x: -75, y: 6}
+        - {x: -75, y: -6}
+        - {x: 75, y: -6}
+        - {x: 75, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534b2ad0c6824d32afb3e12dc18cef41
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barSkill
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 111
+        width: 98
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -4}
+        - {x: -49, y: 4}
+        - {x: 49, y: 4}
+        - {x: 49, y: -4}
+      physicsShape:
+      - - {x: -49, y: 4}
+        - {x: -49, y: -4}
+        - {x: 49, y: -4}
+        - {x: 49, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd01cb9900d4cbeb5c64db72f8ebc6d
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

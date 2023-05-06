@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: a90d4dfd4bd273149a400339f8579739
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Rock
+  - first:
+      213: 21300002
+    second: Grass3
+  - first:
+      213: 21300004
+    second: Shader
+  - first:
+      213: 21300006
+    second: Wood
+  - first:
+      213: 21300008
+    second: Grass1
+  - first:
+      213: 21300010
+    second: Rock2
+  - first:
+      213: 21300012
+    second: Light
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 56
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rock
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 244
+        width: 125
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -24}
+        - {x: -62.5, y: -24}
+        - {x: -62.5, y: -8}
+        - {x: -47.5, y: 20}
+        - {x: -44.5, y: 24}
+        - {x: 53.5, y: 24}
+        - {x: 62.5, y: -5}
+        - {x: 62.5, y: -23}
+      physicsShape:
+      - - {x: 60.5, y: -19}
+        - {x: 62.5, y: -17}
+        - {x: 62.5, y: -14}
+        - {x: 58.5, y: -5}
+        - {x: 35.5, y: 21.000002}
+        - {x: 31.5, y: 21.000002}
+        - {x: 24.5, y: 9}
+        - {x: 7.5, y: 8}
+        - {x: -6.5000005, y: 1}
+        - {x: -12.5, y: 13.000001}
+        - {x: -21.5, y: 17}
+        - {x: -32.5, y: 19}
+        - {x: -38.5, y: 14}
+        - {x: -62.5, y: -14}
+        - {x: -62.5, y: -19}
+        - {x: -51.5, y: -24}
+        - {x: 7.5, y: -24}
+        - {x: 27.5, y: -23}
+        - {x: 50.5, y: -21.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414260e10d4142a3a22be449b70b6811
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 181
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -47}
+        - {x: -67.5, y: -47}
+        - {x: -51.5, y: -33}
+        - {x: -41.5, y: -32}
+        - {x: -68.5, y: -33}
+        - {x: -80.5, y: -40}
+        - {x: -88.5, y: -37}
+        - {x: -90.5, y: -34}
+        - {x: -90.5, y: -7}
+        - {x: -88.5, y: 2}
+        - {x: -81.5, y: 5}
+        - {x: -87.5, y: 5}
+        - {x: -71.5, y: 32}
+        - {x: -45.5, y: 47}
+        - {x: 86.5, y: 47}
+        - {x: 90.5, y: 24}
+        - {x: 90.5, y: -37}
+        - {x: 83.5, y: -47}
+        - {x: 26.5, y: -47}
+      physicsShape:
+      - - {x: 66.5, y: 2}
+        - {x: 48.5, y: 10}
+        - {x: 33.5, y: 13.000001}
+        - {x: 17.5, y: 8}
+        - {x: 7.5, y: 18}
+        - {x: 2.5, y: 18}
+        - {x: -0.5, y: 15}
+        - {x: -0.5, y: 14}
+        - {x: -5.5, y: 20}
+        - {x: -13.5, y: 22}
+        - {x: -26.5, y: 15}
+        - {x: -34.5, y: 27}
+        - {x: -36.5, y: 27}
+        - {x: -38.5, y: 26.000002}
+        - {x: -55.5, y: 18}
+        - {x: -58.5, y: 15}
+        - {x: -58.5, y: 13.000001}
+        - {x: -58.5, y: 14}
+        - {x: -61.5, y: 15}
+        - {x: -71.5, y: 11}
+        - {x: -71.5, y: 7}
+        - {x: -70.5, y: 6}
+        - {x: -57.5, y: -1}
+        - {x: -60.5, y: -14}
+        - {x: -55.5, y: -19}
+        - {x: -42.5, y: -24}
+        - {x: 2.5, y: -26.000002}
+        - {x: 26.5, y: -27}
+        - {x: 72.5, y: -27}
+        - {x: 76.5, y: -23}
+        - {x: 76.5, y: -11}
+      - - {x: -44.500004, y: 3}
+        - {x: -46.5, y: 2}
+        - {x: -40.5, y: -1}
+        - {x: -39.5, y: -1}
+        - {x: -40.5, y: -2}
+        - {x: -39.5, y: -2}
+      - - {x: -52.5, y: 7}
+        - {x: -52.5, y: 8}
+        - {x: -55.5, y: 10}
+        - {x: -54.500004, y: 9}
+        - {x: -51.5, y: 9}
+        - {x: -50.5, y: 8}
+        - {x: -51.5, y: 6}
+        - {x: -48.5, y: 4}
+        - {x: -49.500004, y: 5}
+      - - {x: -10.500001, y: 25}
+        - {x: -9.5, y: 22}
+        - {x: -6.5000005, y: 22}
+        - {x: -4.5, y: 24}
+        - {x: -5.5, y: 27}
+        - {x: -8.5, y: 27}
+      - - {x: -16.5, y: 45}
+        - {x: -16.5, y: 32}
+        - {x: -12.5, y: 29}
+        - {x: -9.5, y: 30}
+        - {x: -9.5, y: 41}
+        - {x: -11.5, y: 45}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89cb10efb30495e91f04c3ee4689f49
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shader
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 244
+        width: 143
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: -5.5}
+        - {x: -71.5, y: 5.5}
+        - {x: 71.5, y: 5.5}
+        - {x: 71.5, y: -5.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc20ac5deb74a8682ca3f6917f95907
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 61
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -59.5}
+        - {x: -14.5, y: -47.5}
+        - {x: -13.5, y: -41.5}
+        - {x: -21.5, y: -50.5}
+        - {x: -30.5, y: -55.5}
+        - {x: -30.5, y: 59.5}
+        - {x: -13.5, y: 59.5}
+        - {x: -3.5, y: 48.5}
+        - {x: 1.5, y: 54.5}
+        - {x: 5.5, y: 59.5}
+        - {x: 30.5, y: 59.5}
+        - {x: 30.5, y: -59.5}
+      physicsShape:
+      - - {x: 24.5, y: -59.500004}
+        - {x: 25.5, y: -59.500004}
+        - {x: 28.500002, y: -57.5}
+        - {x: 30.5, y: -49.500004}
+        - {x: 30.5, y: -37.5}
+        - {x: 21.5, y: -10.500001}
+        - {x: 18.5, y: 7.5}
+        - {x: 13.5, y: 2.5}
+        - {x: 2.5, y: 23.500002}
+        - {x: 28.500002, y: 49.500004}
+        - {x: 27.5, y: 53.5}
+        - {x: 24.5, y: 54.500004}
+        - {x: 12.5, y: 47.5}
+        - {x: 13.5, y: 58.5}
+        - {x: 11.5, y: 59.500004}
+        - {x: 5.5, y: 59.500004}
+        - {x: -5.5, y: 41.5}
+        - {x: -8.5, y: 52.5}
+        - {x: -23.500002, y: 58.5}
+        - {x: -24.5, y: 50.5}
+        - {x: -22.5, y: 45.5}
+        - {x: -18.5, y: 19.5}
+        - {x: -20.5, y: 19.5}
+        - {x: -22.5, y: 17.5}
+        - {x: -20.5, y: -6.5000005}
+        - {x: -30.5, y: -33.5}
+        - {x: -30.5, y: -46.5}
+        - {x: -23.500002, y: -49.500004}
+        - {x: -11.5, y: -38.5}
+        - {x: -14.5, y: -41.5}
+        - {x: -9.5, y: -57.5}
+        - {x: -7.5, y: -59.500004}
+        - {x: 1.5, y: -59.500004}
+        - {x: 5.5, y: -58.5}
+        - {x: 3.5, y: -26.5}
+        - {x: 5.5, y: -13.5}
+        - {x: 17.5, y: -49.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886a23b29e234443b781cd85a7e0467e
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 96
+        width: 167
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.5, y: -43}
+        - {x: 43.5, y: -50}
+        - {x: -77.5, y: -50}
+        - {x: -83.5, y: -45}
+        - {x: -83.5, y: -7}
+        - {x: -20.5, y: 50}
+        - {x: 75.5, y: 50}
+        - {x: 74.5, y: 24}
+        - {x: 62.5, y: 16}
+        - {x: 64.5, y: 11}
+        - {x: 64.5, y: 14}
+        - {x: 66.5, y: 16}
+        - {x: 69.5, y: 16}
+        - {x: 76.5, y: 5}
+        - {x: 83.5, y: -8}
+      physicsShape:
+      - - {x: 70.5, y: -35}
+        - {x: 70.5, y: -26.000002}
+        - {x: 62.5, y: -16}
+        - {x: 70.5, y: 4}
+        - {x: 70.5, y: 10}
+        - {x: 60.5, y: 14}
+        - {x: 70.5, y: 24}
+        - {x: 68.5, y: 27}
+        - {x: 65.5, y: 29}
+        - {x: 56.5, y: 24}
+        - {x: 53.5, y: 18}
+        - {x: 53.5, y: 16}
+        - {x: 54.500004, y: 26.000002}
+        - {x: 60.5, y: 27}
+        - {x: 63.5, y: 45}
+        - {x: 53.5, y: 45}
+        - {x: 46.5, y: 35}
+        - {x: 43.5, y: 11}
+        - {x: 43.5, y: 5}
+        - {x: 45.5, y: 3}
+        - {x: 45.5, y: -4}
+        - {x: 45.5, y: -2}
+        - {x: 41.5, y: 8}
+        - {x: 25.5, y: 15}
+        - {x: 15.500001, y: 6}
+        - {x: 18.5, y: 18}
+        - {x: 2.5, y: 38}
+        - {x: -7.5, y: 35}
+        - {x: -5.5, y: 22}
+        - {x: -0.5, y: 20}
+        - {x: 1.5, y: 12}
+        - {x: -1.5, y: 19}
+        - {x: -4.5, y: 20}
+        - {x: -22.5, y: 17}
+        - {x: -18.5, y: 1}
+        - {x: -14.5, y: -13.000001}
+        - {x: -14.5, y: -15}
+        - {x: -14.5, y: -13.000001}
+        - {x: -17.5, y: -7}
+        - {x: -38.5, y: -5}
+        - {x: -45.5, y: -16}
+        - {x: -55.5, y: -20}
+        - {x: -55.5, y: -35}
+        - {x: -53.5, y: -37}
+        - {x: 23.500002, y: -37}
+        - {x: 40.5, y: -36}
+        - {x: 55.5, y: -37}
+        - {x: 63.5, y: -37}
+      - - {x: 12.5, y: -7}
+        - {x: 10.500001, y: -7}
+        - {x: 12.5, y: -5}
+        - {x: 13.5, y: -5}
+        - {x: 17.5, y: -2}
+        - {x: 21.5, y: -2}
+        - {x: 23.500002, y: 0}
+        - {x: 26.5, y: 0}
+        - {x: 27.5, y: 1}
+        - {x: 22.5, y: -5}
+        - {x: 21.5, y: -5}
+        - {x: 18.5, y: -7}
+        - {x: 16.5, y: -11}
+      - - {x: 33.5, y: 2}
+        - {x: 35.5, y: 4}
+        - {x: 33.5, y: 1}
+        - {x: 34.5, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bf5ee22d1e4876a97123824f7f7a10
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 294
+        width: 23
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -7}
+        - {x: -11.5, y: 7}
+        - {x: 11.5, y: 7}
+        - {x: 11.5, y: -7}
+      physicsShape:
+      - - {x: -6.5000005, y: 7}
+        - {x: -8.5, y: 5}
+        - {x: -11.5, y: -3}
+        - {x: -11.5, y: -6}
+        - {x: -10.500001, y: -7}
+        - {x: 11.5, y: -7}
+        - {x: 11.5, y: -2}
+        - {x: 3.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34c429e3a0442c697e8a9672a51fcf9
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 0.026750565
+        width: 289.84778
+        height: 241.97325
+      alignment: 9
+      pivot: {x: 0.50690013, y: 0.48341396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -144.00002, y: -67.013374}
+        - {x: -145.00002, y: -51.013374}
+        - {x: -145.00002, y: -5.0133743}
+        - {x: -143.00002, y: 9.986626}
+        - {x: -134.00002, y: 51.986626}
+        - {x: -112.000015, y: 94.986626}
+        - {x: -87.000015, y: 108.986626}
+        - {x: -41.000015, y: 120.986626}
+        - {x: 48.999985, y: 120.986626}
+        - {x: 88.999985, y: 110.986626}
+        - {x: 114.999985, y: 95.986626}
+        - {x: 140.99998, y: 55.986626}
+        - {x: 143.99998, y: 45.986626}
+        - {x: 144.99998, y: 33.986626}
+        - {x: 144.99998, y: -27.013374}
+        - {x: 128.99998, y: -72.013374}
+        - {x: 104.999985, y: -95.013374}
+        - {x: 71.999985, y: -113.013374}
+        - {x: 52.999985, y: -121.013374}
+        - {x: -50.000015, y: -121.013374}
+        - {x: -60.000015, y: -118.013374}
+        - {x: -81.000015, y: -112.013374}
+        - {x: -103.000015, y: -103.013374}
+        - {x: -129.00002, y: -89.013374}
+      physicsShape:
+      - - {x: 5.9999847, y: 5.9866257}
+        - {x: -5.0000153, y: 5.9866257}
+        - {x: -9.000015, y: 2.9866257}
+        - {x: -10.000015, y: -0.013374329}
+        - {x: -10.000015, y: -13.013374}
+        - {x: -4.0000153, y: -19.013374}
+        - {x: 8.999985, y: -19.013374}
+        - {x: 15.999985, y: -14.013374}
+        - {x: 15.999985, y: 0.9866257}
+        - {x: 12.999985, y: 3.9866257}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce154e3a4ac445d79115b099bf87046e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

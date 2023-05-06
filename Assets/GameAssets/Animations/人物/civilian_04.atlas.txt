@@ -1,0 +1,139 @@
+
+civilian_04.png
+size: 324,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutou
+  rotate: true
+  xy: 2, 135
+  size: 510, 131
+  orig: 510, 131
+  offset: 0, 0
+  index: -1
+daizi1
+  rotate: false
+  xy: 272, 443
+  size: 22, 81
+  orig: 22, 81
+  offset: 0, 0
+  index: -1
+daizi2
+  rotate: false
+  xy: 266, 807
+  size: 40, 127
+  orig: 40, 127
+  offset: 0, 0
+  index: -1
+duzi
+  rotate: false
+  xy: 135, 136
+  size: 93, 264
+  orig: 93, 264
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 230, 147
+  size: 44, 80
+  orig: 44, 80
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 145, 710
+  size: 176, 94
+  orig: 176, 94
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: true
+  xy: 145, 649
+  size: 59, 140
+  orig: 59, 140
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 229, 936
+  size: 104, 79
+  orig: 104, 79
+  offset: 0, 0
+  index: -1
+yifu1
+  rotate: false
+  xy: 2, 806
+  size: 144, 234
+  orig: 144, 234
+  offset: 0, 0
+  index: -1
+yifu2
+  rotate: false
+  xy: 148, 869
+  size: 79, 171
+  orig: 79, 171
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 2, 647
+  size: 141, 157
+  orig: 141, 157
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 148, 816
+  size: 51, 116
+  orig: 51, 116
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 163, 9
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 204, 2
+  size: 91, 132
+  orig: 91, 132
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 230, 193
+  size: 85, 207
+  orig: 85, 207
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 2, 37
+  size: 96, 194
+  orig: 96, 194
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 272, 526
+  size: 47, 121
+  orig: 47, 121
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 135, 402
+  size: 135, 243
+  orig: 135, 243
+  offset: 0, 0
+  index: -1
+zuozhou
+  rotate: true
+  xy: 2, 2
+  size: 33, 159
+  orig: 33, 159
+  offset: 0, 0
+  index: -1

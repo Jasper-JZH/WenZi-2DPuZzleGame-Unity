@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: c8fdc84067a6f3248bbeb6ecb2b8b546
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: bridge1
+  - first:
+      213: 21300002
+    second: bridge6
+  - first:
+      213: 21300004
+    second: bridge4
+  - first:
+      213: 21300006
+    second: bridge5
+  - first:
+      213: 21300008
+    second: bridge3
+  - first:
+      213: 21300010
+    second: bridge9
+  - first:
+      213: 21300012
+    second: bridge8
+  - first:
+      213: 21300014
+    second: bridge7
+  - first:
+      213: 21300016
+    second: bridge2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 56
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bridge1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 396
+        width: 132
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -42}
+        - {x: -66, y: -12}
+        - {x: -66, y: 42}
+        - {x: 66, y: 42}
+        - {x: 66, y: -9}
+        - {x: 57, y: -38}
+        - {x: 49, y: -42}
+      physicsShape:
+      - - {x: 66, y: 41}
+        - {x: 64, y: 42.000004}
+        - {x: -16, y: 42.000004}
+        - {x: -35, y: 41}
+        - {x: -63, y: 40}
+        - {x: -66, y: 37}
+        - {x: -66, y: 25}
+        - {x: -59, y: 11}
+        - {x: -44, y: -5}
+        - {x: -25, y: -21.000002}
+        - {x: -9, y: -39}
+        - {x: -4, y: -40}
+        - {x: 8, y: -41}
+        - {x: 20, y: -41}
+        - {x: 52.000004, y: -23}
+        - {x: 61, y: -11}
+        - {x: 66, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cba4f00e3cb45b094bc7545d17be7cd
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 113
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -45.5}
+        - {x: -56.5, y: -17.5}
+        - {x: -56.5, y: 44.5}
+        - {x: -39.5, y: 45.5}
+        - {x: 29.5, y: 45.5}
+        - {x: 44.5, y: 38.5}
+        - {x: 56.5, y: -4.5}
+        - {x: 56.5, y: -34.5}
+        - {x: 47.5, y: -45.5}
+      physicsShape:
+      - - {x: 50.5, y: 6.5000005}
+        - {x: 40.5, y: 36.5}
+        - {x: 26.5, y: 45.5}
+        - {x: -25.5, y: 45.5}
+        - {x: -39.5, y: 44.500004}
+        - {x: -46.5, y: 42.5}
+        - {x: -54.500004, y: 40.5}
+        - {x: -56.5, y: 34.5}
+        - {x: -56.5, y: 20.5}
+        - {x: -50.5, y: 2.5}
+        - {x: -50.5, y: -7.5}
+        - {x: -42.5, y: -36.5}
+        - {x: -34.5, y: -45.5}
+        - {x: 46.5, y: -45.5}
+        - {x: 52.5, y: -31.5}
+        - {x: 56.5, y: -27.5}
+        - {x: 56.5, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a4ef996e5248ffb4e354991f74ebd2
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 266
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 83}
+        - {x: 46, y: 83}
+        - {x: 47, y: 79}
+        - {x: 46, y: 78}
+        - {x: 107, y: 78}
+        - {x: 107, y: 75}
+        - {x: 107, y: 73}
+        - {x: 110, y: 71}
+        - {x: 107, y: 75}
+        - {x: 108, y: 78}
+        - {x: 110, y: 78}
+        - {x: 133, y: 75}
+        - {x: 133, y: 31}
+        - {x: 116, y: 6}
+        - {x: 30, y: -10}
+        - {x: 33, y: -17}
+        - {x: 35, y: -26}
+        - {x: -98, y: -26}
+        - {x: -124, y: 27}
+        - {x: -133, y: 51}
+        - {x: -133, y: 72}
+        - {x: -121, y: 78}
+        - {x: 37, y: 78}
+        - {x: 35, y: 80}
+      - - {x: 57, y: -16}
+        - {x: 52, y: -16}
+        - {x: 52, y: -8}
+        - {x: 53, y: -6}
+        - {x: 56, y: -6}
+        - {x: 58, y: -7}
+        - {x: 58, y: -14}
+      - - {x: 49, y: -38}
+        - {x: 46, y: -36}
+        - {x: 46, y: -31}
+        - {x: 47, y: -29}
+        - {x: 54, y: -29}
+        - {x: 57, y: -33}
+        - {x: 57, y: -36}
+        - {x: 54, y: -38}
+      - - {x: -20, y: -53}
+        - {x: -22, y: -51}
+        - {x: -22, y: -48}
+        - {x: -19, y: -47}
+        - {x: -17, y: -49}
+        - {x: -17, y: -52}
+      - - {x: 23, y: -83}
+        - {x: 16, y: -83}
+        - {x: 16, y: -80}
+        - {x: 18, y: -78}
+        - {x: 21, y: -78}
+        - {x: 23, y: -80}
+      physicsShape:
+      - - {x: 27, y: -12}
+        - {x: 16, y: -2}
+        - {x: 55, y: 15}
+        - {x: 85, y: 25}
+        - {x: 86, y: 21.000002}
+        - {x: 96, y: 21.000002}
+        - {x: 107, y: 22}
+        - {x: 110, y: 19}
+        - {x: 113, y: 20}
+        - {x: 114.00001, y: 24}
+        - {x: 128, y: 31.000002}
+        - {x: 133, y: 38}
+        - {x: 133, y: 70}
+        - {x: 132, y: 71}
+        - {x: 94.00001, y: 71}
+        - {x: 88, y: 73}
+        - {x: 32, y: 73}
+        - {x: -97, y: 71}
+        - {x: -96, y: 73}
+        - {x: -109.00001, y: 73}
+        - {x: -126, y: 71}
+        - {x: -132, y: 65}
+        - {x: -133, y: 59}
+        - {x: -133, y: 55}
+        - {x: -119.00001, y: 33}
+        - {x: -115, y: 29}
+        - {x: -102, y: 19}
+        - {x: -102, y: 5}
+        - {x: -94.00001, y: -16}
+        - {x: -90, y: -21.000002}
+        - {x: -70, y: -25}
+        - {x: -36, y: -25}
+        - {x: -12, y: -18}
+        - {x: 16, y: -17}
+        - {x: 25, y: -22}
+      - - {x: 92, y: 30}
+        - {x: 94.00001, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8fb84309134cc2b300c0056f67f8e2
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 313
+        width: 192
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 35.5}
+        - {x: -28, y: 40.5}
+        - {x: 61, y: 40.5}
+        - {x: 83, y: 35.5}
+        - {x: 84, y: 31.5}
+        - {x: 86, y: 33.5}
+        - {x: 94, y: 35.5}
+        - {x: 96, y: 28.5}
+        - {x: 96, y: -34.5}
+        - {x: 72, y: -40.5}
+        - {x: -80, y: -40.5}
+        - {x: -96, y: -23.5}
+        - {x: -96, y: 28.5}
+        - {x: -71, y: 33.5}
+        - {x: -72, y: 35.5}
+        - {x: -70, y: 37.5}
+        - {x: -67, y: 37.5}
+        - {x: -66, y: 34.5}
+        - {x: -66, y: 34.5}
+        - {x: -65, y: 34.5}
+        - {x: -40, y: 33.5}
+        - {x: -22, y: 31.5}
+        - {x: -11, y: 34.5}
+        - {x: -16, y: 33.5}
+      physicsShape:
+      - - {x: 28, y: -33.5}
+        - {x: 51, y: -34.5}
+        - {x: 67, y: -28.500002}
+        - {x: 77, y: -21.5}
+        - {x: 83, y: -9.5}
+        - {x: 87, y: 2.5}
+        - {x: 96, y: 10.500001}
+        - {x: 96, y: 21.5}
+        - {x: 94.00001, y: 25.5}
+        - {x: 81, y: 30.5}
+        - {x: 67, y: 33.5}
+        - {x: 48, y: 33.5}
+        - {x: 7, y: 31.5}
+        - {x: -15, y: 31.5}
+        - {x: -43, y: 33.5}
+        - {x: -61, y: 33.5}
+        - {x: -79, y: 30.5}
+        - {x: -96, y: 27.5}
+        - {x: -96, y: 15.500001}
+        - {x: -95, y: 8.5}
+        - {x: -94.00001, y: -14.5}
+        - {x: -89.00001, y: -20.5}
+        - {x: -77, y: -28.500002}
+        - {x: -66, y: -28.500002}
+        - {x: -62.000004, y: -37.5}
+        - {x: -59, y: -40.5}
+        - {x: -50, y: -40.5}
+        - {x: -41, y: -38.5}
+        - {x: -31.000002, y: -30.5}
+        - {x: -20, y: -27.5}
+        - {x: 6, y: -35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6d10a54b804307b5c8bc4e8e25ccc8
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 165
+        width: 203
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: -46}
+        - {x: -101.5, y: -8}
+        - {x: -101.5, y: 46}
+        - {x: 37.5, y: 46}
+        - {x: 101.5, y: 33}
+        - {x: 101.5, y: -26}
+        - {x: 76.5, y: -46}
+      physicsShape:
+      - - {x: 101.50001, y: -21.000002}
+        - {x: 101.50001, y: -11}
+        - {x: 92.5, y: 6}
+        - {x: 88.5, y: 12}
+        - {x: 53.5, y: 31.000002}
+        - {x: 35.5, y: 35}
+        - {x: 7.5, y: 45}
+        - {x: 1.5, y: 46}
+        - {x: -11.5, y: 40}
+        - {x: -30.5, y: 46}
+        - {x: -43.5, y: 42.000004}
+        - {x: -55.5, y: 46}
+        - {x: -61.5, y: 46}
+        - {x: -75.5, y: 43}
+        - {x: -92.5, y: 31.000002}
+        - {x: -101.50001, y: 26.000002}
+        - {x: -101.50001, y: 13.000001}
+        - {x: -97.5, y: 6}
+        - {x: -95.5, y: -6}
+        - {x: -92.5, y: -17}
+        - {x: -86.50001, y: -34}
+        - {x: -79.5, y: -43}
+        - {x: -73.5, y: -45}
+        - {x: -58.5, y: -44}
+        - {x: -42.5, y: -43}
+        - {x: -8.5, y: -45}
+        - {x: 11.5, y: -44}
+        - {x: 17.5, y: -46}
+        - {x: 63.5, y: -46}
+        - {x: 69.5, y: -44}
+        - {x: 83.5, y: -34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab7ce652b34277b8a2e2db40b41aa4
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 396
+        width: 123
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: -46.5}
+        - {x: -61.5, y: -40.5}
+        - {x: -61.5, y: 36.5}
+        - {x: -55.5, y: 37.5}
+        - {x: -49.5, y: 38.5}
+        - {x: -30.5, y: 40.5}
+        - {x: -38.5, y: 40.5}
+        - {x: -39.5, y: 43.5}
+        - {x: -37.5, y: 46.5}
+        - {x: -21.5, y: 46.5}
+        - {x: -21.5, y: 43.5}
+        - {x: -21.5, y: 41.5}
+        - {x: -20.5, y: 41.5}
+        - {x: -21.5, y: 43.5}
+        - {x: -19.5, y: 45.5}
+        - {x: -13.5, y: 45.5}
+        - {x: -12.5, y: 42.5}
+        - {x: -12.5, y: 42.5}
+        - {x: 17.5, y: 45.5}
+        - {x: 61.5, y: 45.5}
+        - {x: 61.5, y: -24.5}
+        - {x: 55.5, y: -41.5}
+        - {x: 27.5, y: -46.5}
+      - - {x: -58.5, y: 37.5}
+        - {x: -59.5, y: 39.5}
+        - {x: -59.5, y: 42.5}
+        - {x: -57.5, y: 43.5}
+        - {x: -53.5, y: 43.5}
+        - {x: -52.5, y: 40.5}
+        - {x: -55.5, y: 37.5}
+      physicsShape:
+      - - {x: 61.5, y: 13.5}
+        - {x: 61.5, y: 26.5}
+        - {x: 59.500004, y: 29.5}
+        - {x: 40.5, y: 39.5}
+        - {x: -22.5, y: 39.5}
+        - {x: -49.500004, y: 37.5}
+        - {x: -57.5, y: 30.5}
+        - {x: -57.5, y: 24.5}
+        - {x: -58.5, y: 9.5}
+        - {x: -58.5, y: -11.5}
+        - {x: -61.5, y: -14.5}
+        - {x: -61.5, y: -22.5}
+        - {x: -54.500004, y: -35.5}
+        - {x: -43.5, y: -44.500004}
+        - {x: -34.5, y: -46.5}
+        - {x: -23.500002, y: -46.5}
+        - {x: -12.5, y: -44.500004}
+        - {x: -5.5, y: -46.5}
+        - {x: 4.5, y: -46.5}
+        - {x: 25.5, y: -36.5}
+        - {x: 34.5, y: -31.5}
+        - {x: 46.5, y: -10.500001}
+        - {x: 48.5, y: 1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23b596bb5aa4112b23c26766fc11b20
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 141
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -81.5}
+        - {x: -70.5, y: -38.5}
+        - {x: -70.5, y: 75.5}
+        - {x: -64.5, y: 81.5}
+        - {x: 63.5, y: 81.5}
+        - {x: 70.5, y: 59.5}
+        - {x: 70.5, y: -47.5}
+        - {x: 33.5, y: -81.5}
+      physicsShape:
+      - - {x: 65.5, y: -45.5}
+        - {x: 68.5, y: -38.5}
+        - {x: 68.5, y: 0.5}
+        - {x: 65.5, y: 61.5}
+        - {x: 57.5, y: 72.5}
+        - {x: 51.5, y: 78.5}
+        - {x: 41.5, y: 80.5}
+        - {x: 31.5, y: 81.50001}
+        - {x: -56.5, y: 81.50001}
+        - {x: -66.5, y: 74.5}
+        - {x: -65.5, y: 68.5}
+        - {x: -70.5, y: 27.5}
+        - {x: -70.5, y: 0.5}
+        - {x: -64.5, y: -36.5}
+        - {x: -59.500004, y: -43.5}
+        - {x: -35.5, y: -61.5}
+        - {x: -30.5, y: -69.5}
+        - {x: -24.5, y: -75.5}
+        - {x: -0.5, y: -80.5}
+        - {x: 16.5, y: -80.5}
+        - {x: 30.5, y: -59.500004}
+        - {x: 40.5, y: -50.5}
+        - {x: 54.500004, y: -49.500004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43cfe2ab4cf4224b8b34a011b1e36d0
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 247
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118.5, y: 38.5}
+        - {x: 115.5, y: 37.5}
+        - {x: 115.5, y: 30.5}
+        - {x: 120.5, y: 36.5}
+        - {x: 123.5, y: 36.5}
+        - {x: 123.5, y: 27.5}
+        - {x: 119.5, y: 24.5}
+        - {x: 116.5, y: 24.5}
+        - {x: 115.5, y: 26.5}
+        - {x: 115.5, y: -29.5}
+        - {x: 86.5, y: -61.5}
+        - {x: 60.5, y: -65.5}
+        - {x: -74.5, y: -65.5}
+        - {x: -123.5, y: 18.5}
+        - {x: -123.5, y: 54.5}
+        - {x: -119.5, y: 65.5}
+        - {x: 85.5, y: 65.5}
+        - {x: 111.5, y: 50.5}
+        - {x: 113.5, y: 51.5}
+        - {x: 116.5, y: 51.5}
+        - {x: 117.5, y: 49.5}
+        - {x: 117.5, y: 45.5}
+        - {x: 115.5, y: 47.5}
+        - {x: 115.5, y: 44.5}
+        - {x: 118.5, y: 44.5}
+      physicsShape:
+      - - {x: 66.5, y: -44.500004}
+        - {x: 80.5, y: -42.5}
+        - {x: 89.5, y: -37.5}
+        - {x: 94.5, y: -27.5}
+        - {x: 97.5, y: -35.5}
+        - {x: 111.50001, y: -29.5}
+        - {x: 113.5, y: -20.5}
+        - {x: 113.5, y: -13.5}
+        - {x: 109.5, y: -6.5000005}
+        - {x: 104.5, y: -6.5000005}
+        - {x: 98.5, y: -8.5}
+        - {x: 98.5, y: 30.5}
+        - {x: 92.5, y: 43.5}
+        - {x: 89.5, y: 45.5}
+        - {x: 62.5, y: 46.5}
+        - {x: 39.5, y: 52.5}
+        - {x: 24.5, y: 52.5}
+        - {x: -21.5, y: 47.5}
+        - {x: -53.5, y: 48.5}
+        - {x: -82.5, y: 51.5}
+        - {x: -117.5, y: 46.5}
+        - {x: -123.5, y: 40.5}
+        - {x: -123.5, y: 33.5}
+        - {x: -114.5, y: 13.5}
+        - {x: -104.5, y: -4.5}
+        - {x: -91.50001, y: -11.5}
+        - {x: -86.50001, y: -24.5}
+        - {x: -69.5, y: -32.5}
+        - {x: -56.5, y: -47.5}
+        - {x: -53.5, y: -58.5}
+        - {x: -46.5, y: -65.5}
+        - {x: 10.500001, y: -65.5}
+        - {x: 30.5, y: -55.5}
+        - {x: 35.5, y: -55.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b66e52dfbbb4382976ecbda878de424
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 271
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -121.5, y: 71.5}
+        - {x: 135.5, y: 71.5}
+        - {x: 135.5, y: -32.5}
+        - {x: 77.5, y: -67.5}
+        - {x: 62.5, y: -70.5}
+        - {x: -79.5, y: -70.5}
+        - {x: -101.5, y: -63.5}
+        - {x: -102.5, y: -59.5}
+        - {x: -104.5, y: -61.5}
+        - {x: -108.5, y: -61.5}
+        - {x: -110.5, y: -59.5}
+        - {x: -110.5, y: -60.5}
+        - {x: -114.5, y: -66.5}
+        - {x: -115.5, y: -64.5}
+        - {x: -116.5, y: -67.5}
+        - {x: -119.5, y: -69.5}
+        - {x: -120.5, y: -69.5}
+        - {x: -122.5, y: -65.5}
+        - {x: -122.5, y: -62.5}
+        - {x: -120.5, y: -59.5}
+        - {x: -134.5, y: -44.5}
+        - {x: -134.5, y: -35.5}
+        - {x: -132.5, y: -30.5}
+        - {x: -134.5, y: -29.5}
+        - {x: -134.5, y: -25.5}
+        - {x: -132.5, y: -16.5}
+        - {x: -125.5, y: -15.5}
+        - {x: -127.5, y: -14.5}
+        - {x: -124.5, y: -3.5}
+        - {x: -125.5, y: -4.5}
+        - {x: -129.5, y: -5.5}
+        - {x: -131.5, y: -4.5}
+        - {x: -131.5, y: 1.5}
+        - {x: -129.5, y: 7.5}
+        - {x: -124.5, y: 7.5}
+        - {x: -123.5, y: 4.5}
+        - {x: -123.5, y: 2.5}
+        - {x: -122.5, y: 6.5}
+        - {x: -114.5, y: 2.5}
+        - {x: -111.5, y: -6.5}
+        - {x: -108.5, y: -6.5}
+        - {x: -115.5, y: 5.5}
+        - {x: -123.5, y: 18.5}
+        - {x: -126.5, y: 18.5}
+        - {x: -128.5, y: 22.5}
+        - {x: -128.5, y: 25.5}
+        - {x: -127.5, y: 25.5}
+        - {x: -130.5, y: 32.5}
+        - {x: -134.5, y: 32.5}
+        - {x: -134.5, y: 38.5}
+        - {x: -133.5, y: 39.5}
+        - {x: -134.5, y: 41.5}
+        - {x: -134.5, y: 69.5}
+      - - {x: -134.5, y: 17.5}
+        - {x: -135.5, y: 18.5}
+        - {x: -135.5, y: 22.5}
+        - {x: -133.5, y: 24.5}
+        - {x: -131.5, y: 24.5}
+        - {x: -129.5, y: 22.5}
+        - {x: -129.5, y: 19.5}
+      - - {x: -132.5, y: -14.5}
+        - {x: -135.5, y: -13.5}
+        - {x: -135.5, y: -5.5}
+        - {x: -134.5, y: -4.5}
+        - {x: -131.5, y: -4.5}
+        - {x: -128.5, y: -9.5}
+        - {x: -128.5, y: -12.5}
+        - {x: -129.5, y: -14.5}
+      - - {x: -126.5, y: -62.5}
+        - {x: -128.5, y: -60.5}
+        - {x: -128.5, y: -58.5}
+        - {x: -126.5, y: -56.5}
+        - {x: -124.5, y: -56.5}
+        - {x: -122.5, y: -58.5}
+        - {x: -122.5, y: -60.5}
+        - {x: -124.5, y: -62.5}
+      - - {x: -120.5, y: -71.5}
+        - {x: -126.5, y: -71.5}
+        - {x: -126.5, y: -69.5}
+        - {x: -124.5, y: -67.5}
+        - {x: -122.5, y: -67.5}
+        - {x: -120.5, y: -69.5}
+      physicsShape:
+      - - {x: 64.5, y: -57.5}
+        - {x: 64.5, y: -60.5}
+        - {x: 78.5, y: -59.500004}
+        - {x: 97.5, y: -37.5}
+        - {x: 107.5, y: -25.5}
+        - {x: 114.5, y: -15.500001}
+        - {x: 113.5, y: 6.5000005}
+        - {x: 115.5, y: 13.5}
+        - {x: 132.5, y: 24.5}
+        - {x: 135.5, y: 37.5}
+        - {x: 135.5, y: 43.5}
+        - {x: 133.5, y: 47.5}
+        - {x: 130.5, y: 52.5}
+        - {x: 100.5, y: 52.5}
+        - {x: 84.5, y: 55.5}
+        - {x: 69.5, y: 55.5}
+        - {x: 28.500002, y: 51.5}
+        - {x: -41.5, y: 51.5}
+        - {x: -110.5, y: 48.5}
+        - {x: -116.50001, y: 47.5}
+        - {x: -121.50001, y: 40.5}
+        - {x: -121.50001, y: 28.500002}
+        - {x: -114.5, y: 5.5}
+        - {x: -106.50001, y: -10.500001}
+        - {x: -97.5, y: -27.5}
+        - {x: -88.5, y: -31.5}
+        - {x: -78.5, y: -56.5}
+        - {x: -73.5, y: -62.5}
+        - {x: -51.5, y: -69.5}
+        - {x: -24.5, y: -69.5}
+        - {x: -20.5, y: -61.5}
+        - {x: -9.5, y: -60.5}
+        - {x: -9.5, y: -58.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c208bd253a479fa5c2f188b02856d2
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 45226f461ee6fa54195cd9cd9347e28b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: creature_1
+  - first:
+      213: 21300002
+    second: creature_2
+  - first:
+      213: 21300004
+    second: creature_Eye
+  - first:
+      213: 21300006
+    second: creature_0
+  - first:
+      213: 21300008
+    second: creature_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: creature_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 280
+        width: 251
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119.50001, y: -54.000004}
+        - {x: -125.5, y: -57}
+        - {x: -125.5, y: 44}
+        - {x: -112.5, y: 67}
+        - {x: -78.5, y: 97}
+        - {x: -40.5, y: 110}
+        - {x: 39.5, y: 110}
+        - {x: 63.5, y: 103}
+        - {x: 110.5, y: 56}
+        - {x: 123.5, y: 29}
+        - {x: 125.5, y: 15.000001}
+        - {x: 125.5, y: -38}
+        - {x: 107.50001, y: -68}
+        - {x: 72.5, y: -98}
+        - {x: 47.5, y: -110}
+        - {x: -50.5, y: -110}
+        - {x: -95.5, y: -89}
+        - {x: -107.50001, y: -75}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 27
+        width: 254
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115, y: -60.000004}
+        - {x: -127, y: -30.000002}
+        - {x: -127, y: 29}
+        - {x: -112, y: 58}
+        - {x: -91, y: 82}
+        - {x: -42, y: 112}
+        - {x: 24, y: 112}
+        - {x: 58, y: 104}
+        - {x: 78, y: 87}
+        - {x: 119.00001, y: 47}
+        - {x: 127, y: 15.000001}
+        - {x: 127, y: -19}
+        - {x: 85, y: -92}
+        - {x: 43, y: -112}
+        - {x: -40, y: -112}
+        - {x: -90, y: -83}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature_Eye
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 17
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -9}
+        - {x: -8.5, y: 9}
+        - {x: 8.5, y: 9}
+        - {x: 8.5, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 264
+        width: 252
+        height: 229
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.00001, y: -69.5}
+        - {x: -126, y: -46.5}
+        - {x: -126, y: 47.5}
+        - {x: -94, y: 84.5}
+        - {x: -62, y: 106.50001}
+        - {x: -50, y: 114.5}
+        - {x: 49, y: 114.5}
+        - {x: 109, y: 76.5}
+        - {x: 126, y: 36.5}
+        - {x: 126, y: -17.5}
+        - {x: 114, y: -62.5}
+        - {x: 74, y: -94.5}
+        - {x: 23, y: -114.5}
+        - {x: -38, y: -114.5}
+        - {x: -62, y: -102.5}
+        - {x: -88, y: -86.5}
+        - {x: -95, y: -81.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 30
+        width: 249
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: -50.5}
+        - {x: -124.5, y: -35.5}
+        - {x: -124.5, y: 36.5}
+        - {x: -115.5, y: 58.499996}
+        - {x: -78.5, y: 93.5}
+        - {x: -53.500004, y: 110.5}
+        - {x: -34.5, y: 112.5}
+        - {x: 27.5, y: 112.5}
+        - {x: 40.5, y: 109.5}
+        - {x: 62.5, y: 103.5}
+        - {x: 124.5, y: 49.5}
+        - {x: 124.5, y: -24.5}
+        - {x: 105.49999, y: -68.5}
+        - {x: 86.5, y: -92.5}
+        - {x: 46.5, y: -112.5}
+        - {x: -36.5, y: -112.5}
+        - {x: -41.5, y: -111.5}
+        - {x: -91.5, y: -82.5}
+        - {x: -112.5, y: -61.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

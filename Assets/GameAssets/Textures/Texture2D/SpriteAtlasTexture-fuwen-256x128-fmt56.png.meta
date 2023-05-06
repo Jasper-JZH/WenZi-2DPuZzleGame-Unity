@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: 50cca38ebc780a84fbf3250f0793f549
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: di1
+  - first:
+      213: 21300002
+    second: fuwen2
+  - first:
+      213: 21300004
+    second: di2
+  - first:
+      213: 21300006
+    second: fuwen4
+  - first:
+      213: 21300008
+    second: fuwen3
+  - first:
+      213: 21300010
+    second: di4
+  - first:
+      213: 21300012
+    second: di5
+  - first:
+      213: 21300014
+    second: di3
+  - first:
+      213: 21300016
+    second: fuwen1
+  - first:
+      213: 21300018
+    second: fuwen5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 56
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: di1
+      rect:
+        serializedVersion: 2
+        x: 172.02675
+        y: 61.07612
+        width: 26.925547
+        height: 41.880974
+      alignment: 9
+      pivot: {x: 0.5932377, y: 0.7025596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.489524, y: -21.016605}
+        - {x: -13.489524, y: -0.016607285}
+        - {x: -13.489524, y: 20.983393}
+        - {x: -2.489524, y: 20.983393}
+        - {x: 5.510476, y: 19.983393}
+        - {x: 13.510476, y: 14.983393}
+        - {x: 13.510476, y: -0.016607285}
+        - {x: 10.510476, y: -21.016605}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419ba6c7c8c440b788253089aaec292d
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuwen2
+      rect:
+        serializedVersion: 2
+        x: 172.07613
+        y: 0.026751041
+        width: 48.847755
+        height: 58.946495
+      alignment: 9
+      pivot: {x: 0.5307077, y: 0.5848227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.499996, y: -29.5}
+        - {x: -24.499996, y: -18.5}
+        - {x: -24.499996, y: 21.5}
+        - {x: -18.499996, y: 26.5}
+        - {x: -8.499996, y: 29.5}
+        - {x: 14.500004, y: 29.5}
+        - {x: 19.500004, y: 25.5}
+        - {x: 24.500004, y: 8.5}
+        - {x: 24.500004, y: -18.5}
+        - {x: 13.500004, y: -29.5}
+      physicsShape:
+      - - {x: 3.5000038, y: 6.5}
+        - {x: 2.5000038, y: 3.5}
+        - {x: 4.500004, y: 14.5}
+        - {x: 1.5000038, y: 16.5}
+        - {x: -4.499996, y: 16.5}
+        - {x: -9.499996, y: 10.5}
+        - {x: -9.499996, y: -5.5}
+        - {x: -3.4999957, y: -16.499998}
+        - {x: 7.500004, y: -16.499998}
+        - {x: 11.500003, y: -4.5}
+        - {x: 11.500003, y: 3.5}
+        - {x: 5.500004, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714ca9ceda12423d90a8bb83ee7e3cc4
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: di2
+      rect:
+        serializedVersion: 2
+        x: 126.04291
+        y: 67.07612
+        width: 25.93034
+        height: 51.847755
+      alignment: 9
+      pivot: {x: 0.49968848, y: 0.5096437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.9919224, y: 21.000002}
+        - {x: 0.9919224, y: 24.000002}
+        - {x: 2.9919224, y: 26.000002}
+        - {x: 5.9919224, y: 26.000002}
+        - {x: 6.9919224, y: 23.000002}
+        - {x: 4.9919224, y: 21.000002}
+      - - {x: -1.0080776, y: -25.999996}
+        - {x: -13.008078, y: -16.999998}
+        - {x: -13.008078, y: 3.000002}
+        - {x: -7.0080776, y: 16.000002}
+        - {x: 5.9919224, y: 16.000002}
+        - {x: 6.9919224, y: 15.000002}
+        - {x: 12.991922, y: 4.000002}
+        - {x: 12.991922, y: -9.999998}
+        - {x: 6.9919224, y: -24.999998}
+        - {x: 3.9919224, y: -25.999996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256fdd5be530495fa53e22600578f13e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuwen4
+      rect:
+        serializedVersion: 2
+        x: 74.07612
+        y: 67.02675
+        width: 49.847755
+        height: 54.946495
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.59099764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.999996, y: -27.5}
+        - {x: -24.999996, y: -23.5}
+        - {x: -24.999996, y: 23.5}
+        - {x: -5.999996, y: 27.5}
+        - {x: 25.000004, y: 27.5}
+        - {x: 25.000004, y: -27.5}
+      physicsShape:
+      - - {x: 6.000004, y: 11.5}
+        - {x: 4.000004, y: 13.5}
+        - {x: -6.999996, y: 13.5}
+        - {x: -9.999995, y: 4.5}
+        - {x: -9.999995, y: -13.5}
+        - {x: 5.0000033, y: -13.5}
+        - {x: 9.000004, y: -12.5}
+        - {x: 12.000004, y: -10.5}
+        - {x: 12.000004, y: -4.5}
+        - {x: 11.000004, y: -1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3f81e6bc844ede876c430be5768927
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuwen3
+      rect:
+        serializedVersion: 2
+        x: 124.04291
+        y: 0.026751041
+        width: 45.914185
+        height: 64.9465
+      alignment: 9
+      pivot: {x: 0.54355955, y: 0.5461918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.999998, y: -32.500004}
+        - {x: -22.999998, y: -17.500004}
+        - {x: -22.999998, y: 8.499996}
+        - {x: -12.999999, y: 32.499992}
+        - {x: 16.000002, y: 32.499992}
+        - {x: 23.000002, y: 11.499996}
+        - {x: 23.000002, y: -24.500004}
+        - {x: 22.000002, y: -29.500004}
+        - {x: 13.000002, y: -32.500004}
+      physicsShape:
+      - - {x: -1.9999981, y: 17.499996}
+        - {x: -3.999998, y: 16.499996}
+        - {x: -9.999998, y: 1.4999962}
+        - {x: -6.999998, y: -1.5000038}
+        - {x: -4.999998, y: -1.5000038}
+        - {x: -2.9999976, y: -0.5000038}
+        - {x: -4.999998, y: -2.5000038}
+        - {x: -4.999998, y: -4.5000033}
+        - {x: -3.999998, y: -12.500004}
+        - {x: -2.9999976, y: -16.500004}
+        - {x: -1.9999981, y: -18.500002}
+        - {x: 4.000002, y: -18.500002}
+        - {x: 4.000002, y: 16.499996}
+        - {x: 3.000002, y: 17.499996}
+      - - {x: 3.000002, y: 0.49999642}
+        - {x: 4.000002, y: -2.5000038}
+        - {x: 7.0000014, y: -2.5000038}
+        - {x: 9.000002, y: -0.5000038}
+        - {x: 8.000002, y: 2.4999962}
+        - {x: 5.000002, y: 2.4999962}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87759d08bb174fca90652028e36a8538
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: di4
+      rect:
+        serializedVersion: 2
+        x: 201.07613
+        y: 61.02675
+        width: 26.847757
+        height: 35.946495
+      alignment: 9
+      pivot: {x: 0.44412944, y: 0.597367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.499999, y: -17.999998}
+        - {x: -13.499999, y: -12.999998}
+        - {x: -13.499999, y: 1.0000019}
+        - {x: -10.499999, y: 10.000002}
+        - {x: 4.500001, y: 18.000002}
+        - {x: 13.500002, y: 18.000002}
+        - {x: 13.500002, y: -14.999998}
+        - {x: 5.500001, y: -17.999998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b28d6351ab445c99da712f458987bb
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: di5
+      rect:
+        serializedVersion: 2
+        x: 0.059728622
+        y: 75.07612
+        width: 31.903986
+        height: 48.847755
+      alignment: 9
+      pivot: {x: 0.53097665, y: 0.5818871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.0117216, y: -24.499998}
+        - {x: -16.011723, y: -1.4999981}
+        - {x: -16.011723, y: 2.500002}
+        - {x: -3.0117216, y: 24.500002}
+        - {x: 2.9882784, y: 24.500002}
+        - {x: 9.988278, y: 19.500002}
+        - {x: 15.988279, y: 12.500002}
+        - {x: 15.988279, y: -16.499998}
+        - {x: 6.9882784, y: -24.499998}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79df8b093df646869c6bb1c2af15805b
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: di3
+      rect:
+        serializedVersion: 2
+        x: 223.02675
+        y: 0.07612038
+        width: 31.920729
+        height: 50.847755
+      alignment: 9
+      pivot: {x: 0.53173125, y: 0.5589997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.987115, y: -25.499996}
+        - {x: -15.987115, y: -1.4999962}
+        - {x: -15.987115, y: 17.500004}
+        - {x: -12.987115, y: 25.500004}
+        - {x: 9.012885, y: 25.500004}
+        - {x: 16.012886, y: 21.500004}
+        - {x: 16.012886, y: -0.4999962}
+        - {x: 4.012885, y: -23.499994}
+        - {x: 1.0128851, y: -25.499996}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a2edda1de24c8f917995f945ca4180
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuwen1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -36.5}
+        - {x: -36, y: -31.5}
+        - {x: -36, y: 22.5}
+        - {x: -20, y: 36.5}
+        - {x: 19, y: 36.5}
+        - {x: 31, y: 33.5}
+        - {x: 36, y: 19.5}
+        - {x: 36, y: -20.5}
+        - {x: 20, y: -36.5}
+      physicsShape:
+      - - {x: -6, y: 11.499999}
+        - {x: -14, y: 11.499999}
+        - {x: -14, y: -12.5}
+        - {x: -8, y: -24.499998}
+        - {x: 4.9999995, y: -24.499998}
+        - {x: 8, y: -11.499999}
+        - {x: 8, y: 3.5}
+        - {x: 0, y: 10.5}
+      - - {x: -4.9999995, y: -18.5}
+        - {x: -2, y: -17.5}
+        - {x: -2, y: -14.5}
+        - {x: -4.9999995, y: -13.499999}
+        - {x: -7, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05692cddc8d24c64a3a092e71e6009dc
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuwen5
+      rect:
+        serializedVersion: 2
+        x: 74.05637
+        y: 0
+        width: 47.867508
+        height: 63.923878
+      alignment: 9
+      pivot: {x: 0.5210973, y: 0.57099164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.990126, y: -31.961939}
+        - {x: -23.990126, y: -11.961939}
+        - {x: -23.990126, y: 11.038061}
+        - {x: -18.990126, y: 27.038061}
+        - {x: -8.990126, y: 32.038063}
+        - {x: 12.009874, y: 32.038063}
+        - {x: 24.009874, y: 19.038061}
+        - {x: 24.009874, y: -16.961939}
+        - {x: 19.009874, y: -31.961939}
+      physicsShape:
+      - - {x: -3.9901252, y: 20.038061}
+        - {x: -10.990126, y: 3.0380611}
+        - {x: -10.990126, y: -10.961939}
+        - {x: -4.9901257, y: -20.961939}
+        - {x: 1.0098743, y: -22.961939}
+        - {x: 7.0098743, y: -22.961939}
+        - {x: 12.009874, y: -3.9619389}
+        - {x: 12.009874, y: 5.038061}
+        - {x: 3.0098743, y: 20.038061}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a6070ad8a34fa4b4c69c13ca677cad
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
